@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+Language: Cpp
+Standard: Cpp11
+IndentCaseLabels: false
+UseTab: Never
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+ColumnLimit: 120
+AlignArrayOfStructures: Right
